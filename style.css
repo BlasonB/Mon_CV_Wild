@@ -1,0 +1,58 @@
+#header, 
+body {
+	background-color: rgb(104, 187, 285);
+}
+h1, h2, h3, h4, .qqmot {
+	text-align: center;
+}
+#header {
+	background-color: #3BA5D0;
+	padding-top: 10px
+	padding-bottom: 10px;
+	width: 930px;
+	margin: 10px;
+}
+#container {
+	background-color: ;
+	margin:10px;
+}
+#right-box {
+	margin-left: 290px;
+	border: 10px solid #3BA5D0;
+	width: 620px;
+	background-color: #3BA5D0;
+}
+#left-box {
+	float: left;
+	color: white;
+	width: 240px;
+	height: 1550px;
+	border: 10px solid #3BA5D0;
+	background-color: #3BA5D0;
+}
+#xp-box {
+	background-color: white;
+	margin: 5px;
+}
+#studies-box {
+	background-color: white;
+	margin: 5px;
+}
+.xp {
+	background-color: #004057;
+	color: white;
+	border: 10px solid white;
+}
+.class-study {
+	background-color: #004057;
+	color: white;
+	border: 10px solid white;
+}
+#footer {
+	background-color:#3BA5D0;
+	clear: both;
+	width: 910px;
+	margin: 10px;
+	padding: 10px;
+}
+#006F94 couleur experience-box
